@@ -85,4 +85,4 @@ print(type(precio1))
 print(type(disponibilidad))
 
 #ejercicio 8
-#Operaciones matemáticas básicas 
+#Operaciones matemáticas básicas
